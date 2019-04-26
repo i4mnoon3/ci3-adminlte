@@ -2,7 +2,7 @@
 
 ## cigen
 
-The package includes cigen package for auto generating simple CodeIgniter components.
+The package includes cigen for auto generating simple CodeIgniter components.
 
 ```
 # Example
