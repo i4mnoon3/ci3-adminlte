@@ -1,5 +1,8 @@
 # ci3-adminlte
 
+![](public/ci.png)
+![](public/adminlte.png)
+
 It's a simple themed CodeIgniter 3 with AdminLTE.
 
 ## Install
